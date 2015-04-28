@@ -19,3 +19,8 @@
 
 ###SlidingPanels
 * MaterialDrawer : https://android-arsenal.com/details/1/1526
+
+
+###Design
+* Carbon : https://android-arsenal.com/details/1/1491 ( Implement Material Design on Android 2.1 )
+
