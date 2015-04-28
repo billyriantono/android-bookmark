@@ -1,5 +1,8 @@
 # android-bookmark
 
+###Dependency Injection
+* Dagger : https://android-arsenal.com/details/1/860
+
 ###Show Case Views / Tutorial Views
 * Tutorial View : https://github.com/itzikBraun/TutorialView
 * Show Tips View  : https://android-arsenal.com/details/1/1132
