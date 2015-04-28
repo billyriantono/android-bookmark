@@ -40,3 +40,7 @@
 
 ###Progress Indicators
 * Rounded Corner Progress : https://android-arsenal.com/details/1/1375
+* 
+
+###Dialogs
+* Material Dialogs : https://android-arsenal.com/details/1/1310
