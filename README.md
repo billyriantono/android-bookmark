@@ -57,3 +57,16 @@
 
 ###Layouts 
 * FlowLayout : https://android-arsenal.com/details/1/1216
+* Asymetrics Grid View : https://android-arsenal.com/details/1/1186
+* 
+
+###Architecture
+* Clean Architecture Sample ( MVP ) : https://android-arsenal.com/details/3/1210
+
+
+###TextView
+* ExpandableTextView : https://android-arsenal.com/details/1/1203
+* 
+
+###Wizard
+* WizardPager  : https://android-arsenal.com/details/1/1176
