@@ -14,6 +14,8 @@
 
 ###API
 
+###ImageView
+* CircleImageView : https://android-arsenal.com/details/1/1549
 
 ###SlidingPanels
 * MaterialDrawer : https://android-arsenal.com/details/1/1526
