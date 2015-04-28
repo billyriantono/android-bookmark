@@ -14,6 +14,7 @@
 * Circle Animations : https://android-arsenal.com/details/1/1711
 * Android Autoscroll ViewPager : https://android-arsenal.com/details/1/1712
 * Reachability : https://android-arsenal.com/details/1/1283
+* BlurBehind : https://android-arsenal.com/details/1/1025
 
 ###API
 
