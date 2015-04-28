@@ -1,11 +1,13 @@
 # android-bookmark
 
 ###Show Case Views / Tutorial Views
-* https://github.com/itzikBraun/TutorialView
+* Tutorial View : https://github.com/itzikBraun/TutorialView
+* Show Tips View  : https://android-arsenal.com/details/1/1132
 
 
 ###ListView
 * UltimateRecyclerView : https://android-arsenal.com/details/1/1639
+* MaterialListView : https://android-arsenal.com/details/1/1161
 
 ###Animations
 * Audio ( Whatsapp Audio Animations ) : https://android-arsenal.com/details/3/1600
@@ -29,6 +31,7 @@
 
 ###Design
 * Carbon : https://android-arsenal.com/details/1/1491 ( Implement Material Design on Android 2.1 )
+* Material Design : https://android-arsenal.com/details/1/1156
 
 ###SharedPreference
 * Material Preference : https://android-arsenal.com/details/1/1474
@@ -42,7 +45,7 @@
 
 ###Progress Indicators
 * Rounded Corner Progress : https://android-arsenal.com/details/1/1375
-* 
+* Circle Indicator ( Like in Clean Master app ) : https://android-arsenal.com/details/1/1130
 
 ###Dialogs
 * Material Dialogs : https://android-arsenal.com/details/1/1310
@@ -66,7 +69,16 @@
 
 ###TextView
 * ExpandableTextView : https://android-arsenal.com/details/1/1203
+* TextDrawable ( Like in Gmail ) : https://android-arsenal.com/details/1/1157
 * 
 
 ###Wizard
 * WizardPager  : https://android-arsenal.com/details/1/1176
+* 
+
+###Switch 
+* Material Switch Button : https://android-arsenal.com/details/1/1119
+* 
+
+###TabsVIew
+* Material Tabs View : https://android-arsenal.com/details/1/1105
