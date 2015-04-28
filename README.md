@@ -11,6 +11,7 @@
 * Audio ( Whatsapp Audio Animations ) : https://android-arsenal.com/details/3/1600
 * Circle Animations : https://android-arsenal.com/details/1/1711
 * Android Autoscroll ViewPager : https://android-arsenal.com/details/1/1712
+* Reachability : https://android-arsenal.com/details/1/1283
 
 ###API
 
@@ -44,3 +45,8 @@
 
 ###Dialogs
 * Material Dialogs : https://android-arsenal.com/details/1/1310
+* 
+
+#Views
+* CustomErrorViews : https://android-arsenal.com/details/1/1285
+* 
