@@ -48,6 +48,9 @@
 * Material Dialogs : https://android-arsenal.com/details/1/1310
 * 
 
-#Views
+###Colors
+* Flat UI Colors : https://android-arsenal.com/details/1/1282
+
+###Views
 * CustomErrorViews : https://android-arsenal.com/details/1/1285
 * 
