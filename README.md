@@ -21,6 +21,7 @@
 ###SlidingPanels
 * MaterialDrawer : https://android-arsenal.com/details/1/1526
 * Slidr : https://android-arsenal.com/details/1/1364
+* GoogleNavigationDrawer : https://android-arsenal.com/details/1/1290
 
 
 ###Carousels
