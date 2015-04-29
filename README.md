@@ -76,6 +76,9 @@
 * TextDrawable ( Like in Gmail ) : https://android-arsenal.com/details/1/1157
 * 
 
+###Button
+* Floating Button  : https://android-arsenal.com/details/1/824
+
 ###Wizard
 * WizardPager  : https://android-arsenal.com/details/1/1176
 * 
