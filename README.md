@@ -98,6 +98,10 @@
 
 ###ActionBar
 * Header2ActionBar : https://github.com/AChep/Header2ActionBar
+* 
+
+###Services
+* Android Upload File Service : https://github.com/alexbbb/android-upload-service
 
 ###Demo 
 * Conversation : https://android-arsenal.com/details/3/992
