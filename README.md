@@ -11,6 +11,7 @@
 ###ListView
 * UltimateRecyclerView : https://android-arsenal.com/details/1/1639
 * MaterialListView : https://android-arsenal.com/details/1/1161
+* LetterImagelistView : https://android-arsenal.com/details/1/825
 
 ###Animations
 * Audio ( Whatsapp Audio Animations ) : https://android-arsenal.com/details/3/1600
@@ -18,6 +19,7 @@
 * Android Autoscroll ViewPager : https://android-arsenal.com/details/1/1712
 * Reachability : https://android-arsenal.com/details/1/1283
 * BlurBehind : https://android-arsenal.com/details/1/1025
+* Smooth Transition ( Add animation when load a fragment or activity ) : https://android-arsenal.com/details/1/814
 
 ###API
 
@@ -45,7 +47,7 @@
 * CircleMenu : https://android-arsenal.com/details/1/1454
 * SlideMenu by Yalantis : https://android-arsenal.com/details/1/1388
 * ContextMenu by Yalantis : https://android-arsenal.com/details/1/1387
-* 
+* Wheel Menu : https://android-arsenal.com/details/1/780
 
 ###Progress Indicators
 * Rounded Corner Progress : https://android-arsenal.com/details/1/1375
@@ -78,6 +80,9 @@
 
 ###Button
 * Floating Button  : https://android-arsenal.com/details/1/824
+* Android Floating Action Menu : https://android-arsenal.com/details/1/1117
+* Clans/Floating Action Button : https://android-arsenal.com/details/1/1684
+* Android-Floating-Action-Menu by Futurice : https://android-arsenal.com/details/1/965
 
 ###Wizard
 * WizardPager  : https://android-arsenal.com/details/1/1176
@@ -90,6 +95,9 @@
 ###TabsVIew
 * Material Tabs View : https://android-arsenal.com/details/1/1105
 
+###ActionBar
+* Header2ActionBar : https://github.com/AChep/Header2ActionBar
 
 ###Demo 
 * Conversation : https://android-arsenal.com/details/3/992
+* Activity Pass Protection : https://android-arsenal.com/details/1/797
